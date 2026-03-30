@@ -22,13 +22,6 @@ Tengo conocimientos en:
 **Tecnologías:** React, TailwindCSS, Vite, LocalStorage  
 **Repositorio:** [GitHub](https://github.com/valebcrr/tareonauta)
 
-### 2. [Nombre de otro proyecto](#)
-**Descripción:** Breve descripción del proyecto.  
-**Tecnologías:** Lista de tecnologías usadas  
-**Repositorio:** [GitHub](#)
-
-*Agrega más proyectos a medida que los vayas creando.*
-
 ---
 
 ## 🔗 Contacto
