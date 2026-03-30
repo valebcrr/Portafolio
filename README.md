@@ -30,10 +30,3 @@ Tengo conocimientos en:
 - Email: valeriabecerra199@gmail.com
 
 ---
-
-💡 **Tip profesional:**  
-
-- Este README funciona como tu “hub” de portafolio.  
-- Cada vez que crees un proyecto nuevo, solo agrega un bloque como Tareonauta.  
-- Puedes incluir una pequeña captura o GIF opcional para hacer el portafolio más visual.  
-- Mantén el estilo consistente y claro.
