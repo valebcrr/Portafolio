@@ -24,9 +24,8 @@ Tengo conocimientos en:
 
 ---
 ### 2. [Valeria Becerra | Web Developer](https://valeria-becerra.netlify.app/)
-<a href="https://valeria-becerra.netlify.app/" target="_blank">
-  <img src="pagina.png" alt="Valeria Becerra Web Developer"/>
-</a>
+### 2. [Valeria Becerra | Web Developer](https://valeria-becerra.netlify.app/)
+[![Web](pagina.png)](https://valeria-becerra.netlify.app/)
 **Descripción:** Sitio web personal desarrollado con HTML y CSS puro para presentar mis proyectos y habilidades.  
 **Tecnologías:** HTML5, CSS3  
 **Repositorio:** [GitHub](https://github.com/valebcrr/valeria)
