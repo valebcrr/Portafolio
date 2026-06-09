@@ -18,6 +18,8 @@ Tengo conocimientos en:
 ## 🏆 Proyectos
 
 ### 1. [Tareonauta](https://tareonauta.vercel.app/)
+[![Tareonauta](tareonauta.png)](https://tareonauta.vercel.app/)
+
 **Descripción:** Aplicación web para gestionar tareas, permite agregar, editar, marcar como completadas y filtrar tareas.  
 **Tecnologías:** React, TailwindCSS, Vite, LocalStorage  
 **Repositorio:** [GitHub](https://github.com/valebcrr/tareonauta)
