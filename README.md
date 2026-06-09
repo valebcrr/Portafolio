@@ -31,3 +31,7 @@ Tengo conocimientos en:
 **Repositorio:** [GitHub](https://github.com/valebcrr/valeria)
 
 ---
+## 🔗 Contacto
+- LinkedIn: [Valeria Becerra](https://www.linkedin.com/in/valeria-becerra-432b31284)  
+- Email: valeriabecerra199@gmail.com
+---
