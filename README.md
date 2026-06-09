@@ -23,13 +23,9 @@ Tengo conocimientos en:
 **Repositorio:** [GitHub](https://github.com/valebcrr/tareonauta)
 
 ---
-### 2. [Portafolio Web](https://valeria-becerra.netlify.app/)
+### 2. [Valeria Becerra | Web Developer](https://valeria-becerra.netlify.app/)
 **Descripción:** Sitio web personal desarrollado con HTML y CSS puro para presentar mis proyectos y habilidades.  
 **Tecnologías:** HTML5, CSS3  
 **Repositorio:** [GitHub](https://github.com/valebcrr/valeria)
-## 🔗 Contacto
-
-- LinkedIn: [Valeria Becerra](https://www.linkedin.com/in/valeria-becerra-432b31284)  
-- Email: valeriabecerra199@gmail.com
 
 ---
