@@ -33,6 +33,13 @@ Tengo conocimientos en:
 **Repositorio:** [GitHub](https://github.com/valebcrr/valeria)
 
 ---
+### 3. [MusicSearch](https://musicsearch-six.vercel.app/)
+[![MusicSearch](musicsearch.png)](https://musicsearch-six.vercel.app/)
+**Descripción:** Aplicación web para buscar canciones, artistas y álbumes con reproductor de vista previa, consumiendo la API de iTunes.  
+**Tecnologías:** React, TailwindCSS, Vite, iTunes API  
+**Repositorio:** [GitHub](https://github.com/valebcrr/musicsearch)
+
+---
 ## 🔗 Contacto
 - LinkedIn: [Valeria Becerra](https://www.linkedin.com/in/valeria-becerra-432b31284)  
 - Email: valeriabecerra199@gmail.com
